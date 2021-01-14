@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="show_paired_devices">Show Paired Devices</string>
+    <string name="show_available_devices">Scan Nearby Devices</string>
+    <string name="app_shared_preferences">App Shared Preferences</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_address">Device Address</string>
+    <string name="location_permission_message">"Location access in necessary, to search nearby Bluetooth Devices.\n(Location access is made mandatory to disable secret Bluetooth Access by Third Party Application)"</string>
+    <string name="speed">27%</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="distance">00cm</string>
+    <string name="distance_from_obstacle">Distance from obstacle</string>
+    <string name="direction">Direction</string>
+    <string name="obstacle">Obstacle is</string>
+    <string name="away">away</string>
+    <string name="degrees">00 Degrees</string>
+    <string name="forward">Forward</string>
+</resources>
